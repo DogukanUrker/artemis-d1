@@ -1,0 +1,9 @@
+video/
+kf/
+kf720/
+out/*.mp4
+out/*.png
+out/smoothed.json
+out/chapters.txt
+fonts/
+__pycache__/
